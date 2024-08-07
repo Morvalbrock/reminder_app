@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451622851524",
+    "project_id": "reminder-96538",
+    "storage_bucket": "reminder-96538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451622851524:android:882ecbb6e8a43232d98a91",
+        "android_client_info": {
+          "package_name": "com.example.reminder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB22GKhWXYAW5VDOPpRuXgeEKM8lIuy3HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
